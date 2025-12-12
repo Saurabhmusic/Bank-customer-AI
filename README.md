@@ -1,6 +1,6 @@
 # Bank Marketing Campaign: Prediction & Customer Segmentation
 
-###  **Live App:** [Click Here to Predict Term Deposit](YAHAN_APNA_STREAMLIT_APP_LINK_DALNA)
+###  **Live App:** [Click Here to Predict Term Deposit](https://bank-customer-ai-aavchvpfmrmpbob4d8lu2q.streamlit.app/)
 
 ---
 
